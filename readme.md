@@ -1,1 +1,3 @@
-Read me file created
+#Read me file created
+## Intorduction
+### What is git. 
